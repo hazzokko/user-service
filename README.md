@@ -141,6 +141,10 @@
 - [Github](https://github.com/orgs/miracle-job-a/repositories), [Github Project](https://github.com/orgs/miracle-job-a/projects/3) : Project를 이용해서 **Agile하게 협업을 진행**하였습니다.
 - [Google Slides](https://docs.google.com/presentation/d/1jejjYaOX7zgKc46VwrFa2iFXk3mYz3fmFcPIo4kj1AU/edit?usp=sharing) : 최종 발표 자료 제작
 
+## 이미지
+
+![미라클 목업 파일 (선명)](https://github.com/hazzokko/user-service/assets/134523731/962fd692-3c23-49e8-b02a-731b4308ed08)
+![미라클 목업 파일 (아이폰)](https://github.com/hazzokko/user-service/assets/134523731/3c912bbc-77c7-4cc1-b76d-be5bf57fb25b)
 
 <!--
 
