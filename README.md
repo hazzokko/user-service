@@ -143,8 +143,8 @@
 
 ## 이미지
 
-![미라클 목업 파일 (선명)](https://github.com/hazzokko/user-service/assets/134523731/962fd692-3c23-49e8-b02a-731b4308ed08)
-![미라클 목업 파일 (아이폰)](https://github.com/hazzokko/user-service/assets/134523731/3c912bbc-77c7-4cc1-b76d-be5bf57fb25b)
+<img src="https://github.com/hazzokko/user-service/assets/134523731/962fd692-3c23-49e8-b02a-731b4308ed08" width=70% />
+<img src="https://github.com/hazzokko/user-service/assets/134523731/3c912bbc-77c7-4cc1-b76d-be5bf57fb25b" width=28.3% />
 
 <!--
 
