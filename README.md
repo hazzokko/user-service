@@ -3,7 +3,12 @@
 - OPEN API를 활용한 MSA 프로젝트
 - 팀명 : Miracle
 - 기간 : 2023.11.21 ~ 12.20
+- 관련 링크
 
+  [<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" height=25px />](https://github.com/orgs/miracle-job-a/repositories)
+[<img src="https://img.shields.io/badge/Github Project-181717?style=flat&logo=github&logoColor=white" height=25px />](https://github.com/orgs/miracle-job-a/projects/3)
+[<img src="https://img.shields.io/badge/ERD Cloud-512BD4?style=flat&logoColor=white" height=25px />](https://www.erdcloud.com/d/NZKKeMscHHbw7Xpdf)
+[<img src="https://img.shields.io/badge/Figma-FF0000?style=flat&logo=figma&logoColor=white" height=25px />](https://www.figma.com/file/Qep8MMphIvGhBKXV0KlaRO/Job-a-for-Sharing?type=design&mode=design&t=PbEBNxXV4uaYYYD9-1)
 [<img src="https://img.shields.io/badge/발표자료-FBBC04?style=flat&logo=googleslides&logoColor=white" height=25px />](https://docs.google.com/presentation/d/1jejjYaOX7zgKc46VwrFa2iFXk3mYz3fmFcPIo4kj1AU/edit?usp=sharing)
 [<img src="https://img.shields.io/badge/시연영상(PPT Ver.)-FF0000?style=flat&logo=youtube&logoColor=white" height=25px />](https://youtu.be/paDDNcOIIPI?si=ycswEN_LMdLpfMZt)
 [<img src="https://img.shields.io/badge/시연영상(Full Ver.)-FF0000?style=flat&logo=youtube&logoColor=white" height=25px />](https://www.youtube.com/watch?v=gh4Vesk6inA)
@@ -133,13 +138,6 @@
 [🔍자세히 보기](https://github.com/orgs/miracle-job-a/projects/3)
 
 <br>
-
-## 협업 툴 활용
-
-- [ERD Cloud](https://www.erdcloud.com/d/NZKKeMscHHbw7Xpdf) : 엔티티 설계 및 실시간 클라우드 환경에서 매핑 구조 파악
-- [Figma](https://www.figma.com/file/Qep8MMphIvGhBKXV0KlaRO/Job-a-for-Sharing?type=design&mode=design&t=PbEBNxXV4uaYYYD9-1) : 화면 구성
-- [Github](https://github.com/orgs/miracle-job-a/repositories), [Github Project](https://github.com/orgs/miracle-job-a/projects/3) : Project를 이용해서 **Agile하게 협업을 진행**하였습니다.
-- [Google Slides](https://docs.google.com/presentation/d/1jejjYaOX7zgKc46VwrFa2iFXk3mYz3fmFcPIo4kj1AU/edit?usp=sharing) : 최종 발표 자료 제작
 
 ## 이미지
 
